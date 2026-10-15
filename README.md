@@ -40,3 +40,9 @@ Google Sheets, data cleaning, TRIM, PROPER, SUBSTITUTE, COUNTIF, data validation
 ## Data Limitations
 
 Reported sales figures include unresolved duplicate Order ID records and are not verified unique-order revenue. The dataset is synthetic and was created for learning and portfolio demonstration purposes.
+README.md dosyasına eklenecek Markdown
+Dashboard Preview
+ Kopyala
+## Dashboard Preview
+
+![Customer Sales Analysis Dashboard](dashboard.png)
